@@ -24,3 +24,20 @@ Sus orígenes se remontan a la década de 1960, dentro de ARPA (hoy DARPA, las s
 Sistemas de gestión de contenido permiten la colaboración a los equipos trabajar en conjuntos de documentos compartidos al mismo tiempo, sin destruir accidentalmente el trabajo del otro. Los equipos de negocio y el proyecto pueden compartir calendarios, así como documentos y otra información. Esta colaboración se produce en una amplia variedad de áreas, incluyendo la investigación científica, desarrollo de software, planificación de la conferencia, el activismo político y la escritura creativa. La colaboración social y político es cada vez más generalizada, como acceso a Internet y difusión conocimientos de informática.
 
 Internet permite a los usuarios de computadoras acceder remotamente a otros equipos y almacenes de información fácilmente, donde quiera que estén. Pueden hacer esto con o sin la seguridad informática, es decir, la autenticación y de cifrado, dependiendo de los requerimientos. Esto es alentador, nuevas formas de trabajo, la colaboración y la información en muchas industrias.
+
+
+## Impacto social 
+
+Actualmente vivimos en un mundo globalizado donde el uso de tecnologías de información y comunicación ha adquirido un carácter de uso casi obligatorio para las empresas y organizaciones con el fin de poder compartir información o adquirir información. Para esto se ha hecho uso de Internet, ahora surge la pregunta ¿qué es internet?, internet es una red de computadora interconectadas por medio de algún medio, ya sea alambrico, inalámbrico fibra óptica etc., con el fin de compartir información mediante el protocolo TCP/IP y el lenguaje HTML.
+
+Pero no solo el internet está siendo usado para compartir información de negocios, si no como medio de comunicación masiva y de entretenimiento entre usuarios domésticos y de organizaciones. Un ejemplo de esto han sido la creación de las redes sociales que sin duda alguna han venido a revolucionar la forma en que las personas conviven en sociedad, más adelante se detalla el uso de estas nuevas tecnologías.
+
+La llegada de las nuevas TIC´s ha traído con ellas cambios importantes en la sociedad de la información, se han creado herramientas para compartir información e interaccionar entre usuarios miembros de una comunidad, como son los blogs, redes sociales, wikis etc. Todas estas basadas en la tecnología web 2.0, que es una evolución de la internet que conocíamos hasta hace tiempo, pero nos una evolución tecnológica, si no en la forma de implementar dicha tecnología pues ahora se han implementado mecanismos para hacer que la internet sea dinámica marcando la diferencia con la web 1.0 cuyo contenido era estático.
+Como a impactado el uso de internet a las empresas, con la llegada de la web 2.0 surgieron los portales de banca electrónica, esto a traído grandes beneficios a los empresarios pues ahorran bastante tiempo y esfuerzo a la hora de hacer pagos electrónicos o transferencias de fondos de un banco a otro e incluso de un país a otro, esto también da mayor seguridad pues la empresa no necesita tener tanto efectivo evitando la perdida de este debido a un asalto o robo. Pero esto también tiene sus desventajas y es que hay que tener cuidado de que un espía entre a las computadoras y robe información.
+
+Desde mi punto de vista una de las herramientas cuyo uso y aceptación han provocado mayor impacto son las redes sociales en internet.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Internet_Hosts.svg/360px-Internet_Hosts.svg.png)
+
+Sitios de Internet por países.
